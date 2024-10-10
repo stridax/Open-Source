@@ -10,6 +10,12 @@ This repository houses a collection of open-source libraries and tools developed
 
 By providing a centralized repository hub for open source community, we aim to foster innovation and knowledge sharing.
 
+
+#### - Contributing companies -
+
+<img height="30px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> <img height="30px" width="15px" src="https://lledogrupo.com/wp-content/uploads/2018/04/white-img-300x202.jpg"> <img height="30px" src="https://forprivacy.online/wp-content/uploads/2024/10/logo-hostie.png"> <img height="30px" width="15px" src="https://lledogrupo.com/wp-content/uploads/2018/04/white-img-300x202.jpg"> <img height="25px" src="https://forprivacy.online/wp-content/uploads/2024/10/wurzo-logo.png">
+
+
 <br>
 
 ## 🧩 Open Modules
