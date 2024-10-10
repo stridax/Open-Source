@@ -14,12 +14,12 @@ By providing a centralized repository hub for open source community, we aim to f
 
 ## 🧩 Open Modules
 
-| Name | Description | Language | 
-|------|-------------|----------|
-| ![mapScraper](https://github.com/christivn/mapScraper) | 🤖🗺️ Headless browser scraper written in python to extract Places data from Google Maps. | Python |
-| ![CMS-Detector](https://github.com/christivn/CMS-Detector) | 🕵️ Simple CMS detection tool. Identify used CMS on websites. | Python |
-| ![pyBarcodeQRGen](https://github.com/christivn/pyBarcodeQRGen) | Python Barcode and QR Generator 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  | Python |
-| ![pyDomainInfo](https://github.com/christivn/pyDomainInfo) | :crystal_ball: Get domain information such as: ip, asn, organiazcion, country code, nameservers, mx records...  | Python |
+| Name | Description | Language | Company | 
+|------|-------------|----------|---------|
+| ![mapScraper](https://github.com/christivn/mapScraper) | 🤖🗺️ Headless browser scraper written in python to extract Places data from Google Maps. | Python | <img height="15px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> |
+| ![CMS-Detector](https://github.com/christivn/CMS-Detector) | 🕵️ Simple CMS detection tool. Identify used CMS on websites. | Python | <img height="15px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> |
+| ![pyBarcodeQRGen](https://github.com/christivn/pyBarcodeQRGen) | Python Barcode and QR Generator 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  | Python | <img height="15px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> |
+| ![pyDomainInfo](https://github.com/christivn/pyDomainInfo) | :crystal_ball: Get domain information such as: ip, asn, organiazcion, country code, nameservers, mx records...  | Python | <img height="15px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> |
 
 <br>
 
