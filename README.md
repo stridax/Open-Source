@@ -30,7 +30,7 @@ By providing a centralized repository hub for open source community, we aim to f
 | ![CookieConsentBanner](https://github.com/Wurzo/CookieConsentBanner) | 🍪 Easy Customizable Cookie Consent Banner | Javascript | <img height="13px" src="https://forprivacy.online/wp-content/uploads/2024/10/wurzo-logo.png"> |
 | ![pyBarcodeQRGen](https://github.com/christivn/pyBarcodeQRGen) | Python Barcode and QR Generator 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃  | Python | <img height="15px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> |
 | ![pyDomainInfo](https://github.com/christivn/pyDomainInfo) | :crystal_ball: Get domain information such as: ip, asn, organiazcion, country code, nameservers, mx records...  | Python | <img height="15px" src="https://forprivacy.online/wp-content/uploads/2024/10/Stridax-logo-2048x355.png"> |
-| hestia-bulk-creator | ⚙️ HestiaCP user creator script | Python | <img height="16px" src="https://forprivacy.online/wp-content/uploads/2024/10/logo-hostie.png"> |
+| hestia-bulk-creator | ⚙️ HestiaCP user creator script | Bash | <img height="16px" src="https://forprivacy.online/wp-content/uploads/2024/10/logo-hostie.png"> |
 
 
 <br>
