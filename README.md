@@ -19,7 +19,7 @@ By providing a centralized repository hub for open source community, we aim to f
 
 <br>
 
-## 🧩 Open Modules
+## 🧩 Open Source Projects
 
 | Name | Description | Language | Company | 
 |------|-------------|----------|---------|
